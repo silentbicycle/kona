@@ -84,3 +84,4 @@ K cd(K a);
 extern K KFIXED;
 K kap(K *a,V v);
 K XDB(S t);
+extern K ARGS;
